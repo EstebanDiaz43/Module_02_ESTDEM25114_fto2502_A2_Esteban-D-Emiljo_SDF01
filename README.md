@@ -79,4 +79,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?EstebanDiaz43=EstebanDiaz43&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanDiaz43&show_icons=true&theme=radical)
